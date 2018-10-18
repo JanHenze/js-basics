@@ -1,0 +1,60 @@
+header {
+    background: gray;
+    color: white;
+
+}
+body {
+    margin: 0;
+}
+
+header h1 {
+    margin: 0;
+    display: inline;
+}
+
+nav ul {
+    margin:0;
+    display: inline;
+}
+p {
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    font: bold;
+}
+ #add-sum {
+     color: gray;
+     font-family: Arial;
+     font-size: 50px;
+     text-align: center;
+    
+     
+ }
+nav ul li {
+    background: black;
+    color: white;
+    display: inline-block;
+    list-style-type: none;
+    padding: 5px 10px;
+}
+
+nav ul li a {
+    color: white;
+}
+
+input {
+    font-size: 20px;
+    color: gray;
+
+}
+.hide {
+   display: none;
+}
+.shown {
+    display: flex;
+}
+#weed {
+    width: 80%;
+    height: auto;
+    
+}
